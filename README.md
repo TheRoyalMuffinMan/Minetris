@@ -1,7 +1,8 @@
 # Minetris
 <p align="center">
-  <img src="images/Box.jpg" alt="arcade box" height="400" style="margin-right: 15px;"/>
-  <img src="images/Wires.jpg" alt="arcade box" height="400" style="margin-left: 15px;"/>
+  <img src="images/Box.jpg" alt="arcade box" height="400" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/Wires.jpg" alt="arcade box" height="400"/>
 </p>
 
 ## Concept
