@@ -25,3 +25,6 @@ The goal of the project was to apply key aspects of embedded systems using the  
 - Another set of displays that are shown to the user are three LEDs (red, green, and blue). Over digital I/O, the LEDs light up in different orders to let the user know the next piece.
 
 - Korobeiniki (A-Type) is played while the game is running. This occurs by using the speaker with the TCA peripheral in frequency wave generation mode.
+
+## Code Organization
+<strong>Note:</strong> Immediately loading this project in MPLAB will reorganize the code present in the repository into an organized format with logical folders.
